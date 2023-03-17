@@ -1,1 +1,4 @@
 skops == 0.5.0
+pandas
+sklearn
+matplotlib
